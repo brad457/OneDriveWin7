@@ -6,8 +6,8 @@ This repo contains a version of Microsoft's OneDrive that successfully installs 
 # OneDriveSetupWin7.exe
 Because the maximum file size for GitHub is 25 MB and the OneDriveSetupWin7.exe is 33.3 MB I had to split the zip file into two parts.
 
-Download Part 1: <a href="https://github.com/brad457/OneDriveWin7/blob/main/OneDriveSetupWin7.zip.001"> OneDriveSetupWin7.zip.001</a> 
-Download Part 2: <a href="https://github.com/brad457/OneDriveWin7/blob/main/OneDriveSetupWin7.zip.002"> OneDriveSetupWin7.zip.002</a>
+Download Part 1: <a href="https://github.com/brad457/OneDriveWin7/raw/main/OneDriveSetupWin7.zip.001"> OneDriveSetupWin7.zip.001</a> 
+Download Part 2: <a href="https://github.com/brad457/OneDriveWin7/raw/main/OneDriveSetupWin7.zip.002"> OneDriveSetupWin7.zip.002</a>
 
 I tried using various types of file encryption methods to get the file size under 25 MB with no luck (closest I came was 29.9 MB).  
 
